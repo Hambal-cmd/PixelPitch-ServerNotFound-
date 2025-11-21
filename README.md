@@ -1,11 +1,11 @@
 # PixelPitch-ServerNotFound-
-This is a simple prototype of a false apps and apks tracker.\n
+This is a simple prototype of a false apps and apks tracker.
 
-It has been developed on MERN stack. For now the Data has been hardcoded into the backend.\n 
+It has been developed on MERN stack. For now the Data has been hardcoded into the backend. 
 
-Backend:\n
-    \t Major of the logic rests in index.js file.\n
-    \t The hardcoded data is present in data.js file.\n
+Backend:
+    Major of the logic rests in index.js file.
+    The hardcoded data is present in data.js file.
 
     It uses CORS middleware for resource sharing between the backend and frontend. As the frontend and backend are operating on 2 different ports.
     It uses REST api to fetch data from the backend.
